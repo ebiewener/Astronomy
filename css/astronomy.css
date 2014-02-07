@@ -94,3 +94,10 @@ body.front.two-sidebars #content-panels {border-left:none;}
 .front .view-os-events.view-id-os_events .view-header {padding-top:1px;}
 
 /* TEST CHANGE 7/19 @11:20AM */
+
+
+/* FOR DEMO ONLY -- TO BE REMOVED */
+.page-node-65906 #content-column h1,
+.page-node-66281 #content-column h1 {display:none;}
+.page-node-65906 #content-panels,
+.page-node-66281 #content-panels {margin-top:-10px;}
